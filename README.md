@@ -1,7 +1,7 @@
 ### Olá! Sou a Michele Faria  👋
 
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Estudando Python e JavaScript 
+- 🔭 Junio/Trainee
+- 🌱 Estudando Python 
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
