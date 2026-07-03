@@ -1,6 +1,6 @@
 ### Olá! Sou a Michele Faria  👋
 
-- 🔭 Junio/Trainee
+- 🔭 Junior/Trainee
 - 🌱 Estudando Python 
 - 😄 Pronouns: ela/dela
 
